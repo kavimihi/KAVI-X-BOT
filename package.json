@@ -100,7 +100,6 @@
         "uglify-js": "^3.17.4",
         "unofficial-carbon-now": "^1.0.6",
         "util": "^0.12.5",
-        "webtorrent": "^2.5.1",
         "whois": "^2.14.0",
         "ws": "^8.13.0",
         "yargs": "^17.6.2",
