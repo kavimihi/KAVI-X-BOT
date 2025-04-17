@@ -1,0 +1,16 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm install"
+  },
+  "deploy": {
+    "startCommand": "node index.js",
+    "restartPolicyType": "ON_FAILURE"
+  },
+  "healthcheck": {
+    "path": "/",
+    "interval": 10,
+    "timeout": 5,
+    "gracePeriod": 5
+  }
+}
