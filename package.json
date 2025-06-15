@@ -95,7 +95,7 @@
         "requests": "^0.3.0",
         "rumus-bdr": "^1.0.0",
         "scrape-primbon": "^1.1.0",
-        "sharp": "^0.34.2",
+        "sharp": "^0.32.6",
         "similarity": "^1.2.1",
         "socket.io": "^4.8.1",
         "spotify-web-api-node": "^5.0.2",
